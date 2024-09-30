@@ -9,6 +9,11 @@ The primary objective of this project is to apply the knowledge and skills gaine
 The dataset for analysis will be selected from open-source platforms provided as part of the course. I will ensure that the data is relevant to the problem statement and is well suited for analysis.
 
 ### Tools Used:
-- Microsoft Excel for Data Cleaning, Analysis and visualisation
+Throughout the training, I will be using the following tools and software.
+
+- Microsoft Excel
+    1. For Data Cleaning
+    2. For Analysis and
+    3. visualisation
 - SQL - Structured Query Language for Querying of Data
 - Github for Portfolio Building
