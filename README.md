@@ -19,3 +19,4 @@ Throughout the training, I will be using the following tools and software.
 - Github for Portfolio Building
 
 ### Data Cleaning and Preparations
+In the initial phase of the training
