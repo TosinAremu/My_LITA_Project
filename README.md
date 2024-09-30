@@ -11,9 +11,9 @@ The dataset for analysis will be selected from open-source platforms provided as
 ### Tools Used:
 Throughout the training, I will be using the following tools and software.
 
-- Microsoft Excel
+- Microsoft Excel [Download Here](https://www.microsoft.com)
     1. For Data Cleaning
     2. For Analysis and
-    3. visualisation
+    3. Data Visualisation
 - SQL - Structured Query Language for Querying of Data
 - Github for Portfolio Building
