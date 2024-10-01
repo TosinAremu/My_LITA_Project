@@ -2,6 +2,15 @@
 
 ### Project Title: Data Analysis Training Project
 
+[Project Objective](#project-overview)
+
+Data Sources
+Tools Used
+Data Cleaning and Preparations
+Exploratory Data Analysis
+Data Analysis
+Data Visualisation
+
 ### Project Objective: 
 ---
 The primary objective of this project is to apply the knowledge and skills gained during the Data Analysis training. The focus will be on understanding, processing, and analyzing datasets to draw meaningful insigts. By the end of the project, I aim to develop proficiency in using data analysis tools, interpreting data and presenting findings effectively.
@@ -44,3 +53,10 @@ This is where we include some basic lines of code or queries or even some of the
 SELECT * FROM EMPLOYEE
 WHERE FIRSTNAME = 'FEMI'
 ```
+### Data Visualisation
+---
+This is presenting our results using charts, graphs and other visualisation tools.
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
