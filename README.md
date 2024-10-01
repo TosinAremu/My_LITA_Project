@@ -4,12 +4,17 @@
 
 [Project Objective](#project-overview)
 
-Data Sources
-Tools Used
-Data Cleaning and Preparations
-Exploratory Data Analysis
-Data Analysis
-Data Visualisation
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualisation](#data-analysis)
 
 ### Project Objective: 
 ---
