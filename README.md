@@ -16,6 +16,8 @@
 
 [Data Visualisation](#data-analysis)
 
+[Leaning Outcome](#learning-outcome)
+
 ### Project Objective: 
 ---
 The primary objective of this project is to apply the knowledge and skills gained during the Data Analysis training. The focus will be on understanding, processing, and analyzing datasets to draw meaningful insigts. By the end of the project, I aim to develop proficiency in using data analysis tools, interpreting data and presenting findings effectively.
@@ -80,5 +82,10 @@ This is presenting our results using charts, graphs and other visualisation tool
 |---------|---------|---------|
 |Table 1|Table 2|Table 3|
 
-### Methodology
-This training will follow a structured approach
+### Learning Outcome
+---
+By the completion of this training, I expect to:
+- Develop a strong understanding of data manipulation and analysis techniques
+- Improve my ability to interprete and communicate data-driven insights.
+- Gain hands on experience with industry standard data analysis tools.
+- Build a foundational skill set that will be useful for the real world data analysis tasks.
