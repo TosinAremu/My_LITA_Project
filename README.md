@@ -52,8 +52,15 @@ EDA involved the analyzing of datasets to summarize their main characteristics s
 
 ### Data Analysis
 ---
-This is where we include some basic lines of code or queries or even some of the DAX expressions used during the analysis training.
+This is where we include some basic lines of functions,code, queries or even some of the DAX expressions used during the analysis training.
+Functions like;
+- SUMIF
+- AVERAGE
+- FIND FUNCTION
+- VLOOKUP
+- TEXT FUNCTION etc.
 
+Queries like;
 ```SQL
 SELECT * FROM EMPLOYEE
 WHERE FIRSTNAME = 'FEMI'
@@ -62,6 +69,16 @@ WHERE FIRSTNAME = 'FEMI'
 ---
 This is presenting our results using charts, graphs and other visualisation tools.
 
+![Pie Chart](https://github.com/user-attachments/assets/dc9374d5-2813-41ed-81c2-58f6fc0d2883)
+
+
+![Area Chart](https://github.com/user-attachments/assets/12824fd2-145d-41fb-b558-7cbea7f33cd9)
+
+
+
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
 |Table 1|Table 2|Table 3|
+
+### Methodology
+This training will follow a structured approach
