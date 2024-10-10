@@ -48,7 +48,12 @@ Phase 3: Pivot Table (Week 3)
 - Querying large amount of data in a friendly user way.
 - Subtotalling and aggregating numeric data, summarizing data by categories and subcategories and creating custom calculations and formula.
 - Transforming summarized data into different types of chart (Pie, Area, Line, Bar chart etc).
+- Identifying patterns and trends.
+- Make comparison and analysze subset of data.
 
+Phase 4: SQL (Structured Query Language)
+- Introduction to SQL
+- 
  
 ### Data Sources
 The dataset for analysis will be selected from open-source platforms provided as part of the course. I will ensure that the data is relevant to the problem statement and is well suited for analysis.
