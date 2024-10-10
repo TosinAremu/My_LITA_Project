@@ -30,7 +30,11 @@ Upon successful completion of this project, I expect to:
 - Visualize data effectively using charts, graphs and dashboards.
 - Interpret and present findings to guide decision making.
 
-
+### Project Phases
+Phase 1: Introduction to Data Analysis (Week 1)
+- Familiarization with basic data analysis concepts and their importance in various industries.
+- Introduction to excel functions, data validation, use of shotcut in excel and aggregate with conditions.
+- Learning about different data sources (Structures, unstructures, internal & external).
 
 ### Data Sources
 The dataset for analysis will be selected from open-source platforms provided as part of the course. I will ensure that the data is relevant to the problem statement and is well suited for analysis.
