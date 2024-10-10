@@ -32,22 +32,23 @@ Upon successful completion of this project, I expect to:
 
 ### Project Phases
 Phase 1: Introduction to Data Analysis (Week 1)
-- Familiarization with basic data analysis concepts and their importance in various industries
-- Introduction to excel functions, data validation, use of shotcut in excel and aggregate with conditions
-- Learning about different data sources (Structures, unstructures, internal & external)
+- Familiarization with basic data analysis concepts and their importance in various industries.
+- Introduction to excel functions, data validation, use of shotcut in excel and aggregate with conditions.
+- Learning about different data sources (Structures, unstructures, internal & external).
 
 Phase 2: Excel Functions (Week 2)
-- Understanding formulas and functions and how they are used to perform calculations or manipulate data in Excel
-- Use of data cleaning
-- Introduction to pivot table
+- Understanding formulas and functions and how they are used to perform calculations or manipulate data in Excel.
+- Use of data cleaning.
+- Introduction to pivot table.
 
 Phase 3: Pivot Table (Week 3)
-- Introduction to reporting in pivot table
-- Organizing large amount of data with the use of pivot table
-- creating concise, attractive and annotated report for online or printed use
-- Querying large amount of data in a friendly user way
+- Introduction to reporting in pivot table.
+- Organizing large amount of data with the use of pivot table.
+- creating concise, attractive and annotated report for online or printed use.
+- Querying large amount of data in a friendly user way.
 - Subtotalling and aggregating numeric data, summarizing data by categories and subcategories and creating custom calculations and formula.
-- Transforming summarized data into different types of chart.
+- Transforming summarized data into different types of chart (Pie, Area, Line, Bar chart etc).
+
  
 ### Data Sources
 The dataset for analysis will be selected from open-source platforms provided as part of the course. I will ensure that the data is relevant to the problem statement and is well suited for analysis.
