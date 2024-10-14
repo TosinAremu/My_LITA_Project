@@ -51,7 +51,7 @@ Phase 3: Pivot Table (Week 3)
 - Identifying patterns and trends.
 - Make comparison and analysze subset of data.
 
-Phase 4: SQL (Structured Query Language)
+Phase 4: SQL (Structured Query Language) (Week 4)
 - Introduction to SQL
 - 
  
