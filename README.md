@@ -66,6 +66,7 @@ Throughout the training, I will be using the following tools and software.
     2. For Analysis and
     3. Data Visualisation
 - SQL - Structured Query Language for Querying of Data
+- Power BI for visualisation.
 - Github for Portfolio Building
 
 ### Data Cleaning and Preparations
