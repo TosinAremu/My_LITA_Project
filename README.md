@@ -52,8 +52,37 @@ Phase 3: Pivot Table (Week 3)
 - Make comparison and analysze subset of data.
 
 Phase 4: SQL (Structured Query Language) (Week 4)
-- Introduction to SQL
-- 
+- Introduction to SQL.
+- What are SQL?
+- The basic commands that can be used in SQL and their types.
+- Datatypes and SQL Keys.
+- How to write SQL Queries.
+
+Phase 5: SQL Clauses (Week 5)
+- Types of SQL Clauses, which are Group By, Order By, Having
+- SQL Operators like IN, NOT IN, Between, OR, LIKE, WHERE. etc
+- SQL JOIN, How to join two or more tables with Inner join, Left Join, Full Join and Right Join
+- How to Union and Union all a query or table.
+
+Phase 6: SQL Views (Week 6)
+- How to retrieve query from a table using SQL View.
+- How to Export Data from SQL to Excel.
+- Uses of CASE WHEN.
+- How to import a table into data base.
+- Portfolio Building for Data Analysis with GITHUB
+- Creating a GITHUB account
+- Understanding Repositories
+- Adding file to our repositories.
+
+Phase 7: POWER BI Installation and Introduction ( Week 7)
+- Step by Step Installation of Power BI
+- Introduction to Power BI, it's component and supported data sources.
+- Data Modelling 
+
+Phase 8: 
+
+
+  
  
 ### Data Sources
 The dataset for analysis will be selected from open-source platforms provided as part of the course. I will ensure that the data is relevant to the problem statement and is well suited for analysis.
