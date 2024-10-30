@@ -59,8 +59,8 @@ Phase 4: SQL (Structured Query Language) (Week 4)
 - How to write SQL Queries.
 
 Phase 5: SQL Clauses (Week 5)
-- Types of SQL Clauses, which are Group By, Order By, Having
-- SQL Operators like IN, NOT IN, Between, OR, LIKE, WHERE. etc
+- Types of SQL Clauses, which are Group By, Order By, Having.
+- SQL Operators like IN, NOT IN, Between, OR, LIKE, WHERE. etc.
 - SQL JOIN, How to join two or more tables with Inner join, Left Join, Full Join and Right Join
 - How to Union and Union all a query or table.
 
@@ -69,18 +69,31 @@ Phase 6: SQL Views (Week 6)
 - How to Export Data from SQL to Excel.
 - Uses of CASE WHEN.
 - How to import a table into data base.
-- Portfolio Building for Data Analysis with GITHUB
-- Creating a GITHUB account
-- Understanding Repositories
+- Portfolio Building for Data Analysis with GITHUB.
+- Creating a GITHUB account.
+- Understanding Repositories.
 - Adding file to our repositories.
 
-Phase 7: POWER BI Installation and Introduction ( Week 7)
-- Step by Step Installation of Power BI
+Phase 7: Power BI Installation and Introduction ( Week 7)
+- Step by Step Installation of Power BI.
 - Introduction to Power BI, it's component and supported data sources.
-- Data Modelling 
+- Data Modelling .
 
-Phase 8: 
+Phase 8: Principles Of Data Visualisation (Week 8)
+- Power BI visualisation.
+- How to do data transformation, transpose data, check column quality, column profile, remove column, rows etc.
+- Power Query for data transformation, merging and appending.
+- How to use a text box, change visuals to home tab etc.
 
+Phase 9: DAX (Data Analysis Expression) Function (Week 9)
+- Conditional column, customn column.
+- Measures and calculated column in DAX.
+
+Phase 10: Data Visualisation ( Week 10)
+- Visualisation in Power BI.
+- Uses of charts, tables, maps, etc.
+- How to report using visualisation.
+- And how to publish on Power BI.
 
   
  
