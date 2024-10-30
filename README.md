@@ -130,6 +130,8 @@ Functions like;
 - SUMIF
 - AVERAGE
 - FIND FUNCTION
+- LEN FUNCTION
+- LEFT and RIGHT FUNCTION
 - VLOOKUP
 - TEXT FUNCTION etc.
 
@@ -145,7 +147,6 @@ This is presenting our results using charts, graphs and other visualisation tool
 
 
 ![Area Chart](https://github.com/user-attachments/assets/12824fd2-145d-41fb-b558-7cbea7f33cd9)
-
 
 
 |Heading 1|Heading 2|Heading 3|
