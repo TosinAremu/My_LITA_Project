@@ -125,7 +125,7 @@ EDA involved the analyzing of datasets to summarize their main characteristics s
  - And relationship through Statistical Methods and Visualisation.
 
 ### Data Analysis
-This is where we include some basic lines of functions,code, Sql command or even some of the DAX expressions used during the analysis training.
+This is where we include some basic lines of functions,code, Sql command or even some of the DAX expressions (measures) were used during the analysis training.
 Functions like;
 - SUMIF
 - AVERAGE
@@ -171,7 +171,6 @@ This is presenting our results using charts, graphs and other visualisation tool
 ![Bar Chart](https://github.com/user-attachments/assets/272c3c1e-c76d-47f2-8d4a-e50e32f5b9ba)
 
 ![Filter](https://github.com/user-attachments/assets/89118301-fd5a-46bc-8957-799b4fa1f073)
-
 
 
 
