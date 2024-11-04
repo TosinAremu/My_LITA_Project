@@ -181,7 +181,7 @@ This is presenting our results using charts, graphs and other visualisation tool
 |Table 1|Table 2|Table 3|
 
 ### Training Dataset
-The dataset used in the process of the trainings were; Columnar Data, Excel function 1, 2 & 3, HR Data, International Breweries, Loan Data, Pivot Tables etc. The dataset represent City, Product, Text cleaning, Attrition in employment, Map of Nigeria, Sales etc.
+The dataset used in the process of the trainings were; Columnar Data, Excel function 1, 2 & 3, HR Data, International Breweries, Loan Data, Pivot Tables etc. The dataset represent City, Product, Text cleaning, Attrition in employment, Map of Nigeria, Sales etc. providing ample opportunities to explore data, trends, correlations, transform data, visualise and preditive insights.
 
 ### Learning Outcome
 By the completion of this training, I expect to:
@@ -189,3 +189,11 @@ By the completion of this training, I expect to:
 - Improve my ability to interprete and communicate data-driven insights.
 - Gain hands on experience with industry standard data analysis tools.
 - Build a foundational skill set that will be useful for the real world data analysis tasks.
+
+### Success Criteria
+- Ability to analyze, visualize and interprete data effectively.
+- Delivering a comprehensive analysis report that includes insights from the data.
+- Demonstrating proficiency in using Power BI or Excel for data analysis tasks.
+- Providing clear and actionable recommendations based on data insights.
+
+
