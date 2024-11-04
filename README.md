@@ -196,4 +196,9 @@ By the completion of this training, I expect to:
 - Demonstrating proficiency in using Power BI or Excel for data analysis tasks.
 - Providing clear and actionable recommendations based on data insights.
 
+### Conclusion
+This project will allow me to build a strong foundation in data analysis, preparing me for more advanced data science tasks in the future. The skills acquired during this training will not only enable me to make data-driven decisions but also equip me to work with real-world datasets effectively, contributing to better outcomes in professional settings.
+
+By the end of the project, I aim to have a robust understanding of the end-to-end process of data analysis, from data collection to insight generation, and be proficient in the tools required to conduct such analyses.
+
 
