@@ -143,10 +143,12 @@ WHERE FIRSTNAME = 'FEMI'
 ### Data Visualisation
 This is presenting our results using charts, graphs and other visualisation tools.
 
-![Pie Chart](https://github.com/user-attachments/assets/dc9374d5-2813-41ed-81c2-58f6fc0d2883)
+![Bar Chart](https://github.com/user-attachments/assets/272c3c1e-c76d-47f2-8d4a-e50e32f5b9ba)
+
+![Filter](https://github.com/user-attachments/assets/89118301-fd5a-46bc-8957-799b4fa1f073)
 
 
-![Area Chart](https://github.com/user-attachments/assets/12824fd2-145d-41fb-b558-7cbea7f33cd9)
+
 
 
 |Heading 1|Heading 2|Heading 3|
