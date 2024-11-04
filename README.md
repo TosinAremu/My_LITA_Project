@@ -172,12 +172,15 @@ This is presenting our results using charts, graphs and other visualisation tool
 
 ![Filter](https://github.com/user-attachments/assets/89118301-fd5a-46bc-8957-799b4fa1f073)
 
+![Map of Nigeria](https://github.com/user-attachments/assets/2a5e1627-4d9c-4a8a-a362-d412120505da)
+
+
 
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
 |Table 1|Table 2|Table 3|
 
-### Trainig Dataset
+### Training Dataset
 The dataset used in the process of the trainings were; Columnar Data, Excel function 1, 2 & 3, HR Data, International Breweries, Loan Data, Pivot Tables etc. The dataset represent City, Product, Text cleaning, Attrition in employment, Map of Nigeria, Sales etc.
 
 ### Learning Outcome
